@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac Toe</string> <!-- App name -->
+
+    <item name="show_admob" type="bool">false</item> <!-- Show AdMob (true/false) -->
+
+    <item name="admob_test" type="bool">false</item> <!-- AdMob test mode (true/false) -->
+
+    <string name="adMob_banner">12345</string> <!-- AdMob Banner ID -->
+
+    <string name="adMob_interstitial">12345</string> <!-- AdMob Interstitial ID -->
+
+    <string name="btn_exit">QUIT</string>
+    <string name="btn_start1">One Player Game</string>
+    <string name="btn_start2">Two Players Game</string>
+    <string name="btn_clear">CLEAR</string>
+    <string name="win0">NOBODY WINS</string>
+    <string name="win1_single">YOU LOST</string>
+    <string name="win2_single">YOU WIN</string>
+    <string name="win1_multiple">PLAYER 1 WINS</string>
+    <string name="win2_multiple">PLAYER 2 WINS</string>
+    <string name="btn_sound">SOUND</string>
+    <string name="btn_mute">MUTE</string>
+
+</resources>
